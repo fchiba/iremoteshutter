@@ -1,6 +1,7 @@
 <resources>
 
-    <string name="keyboard_layout_label">normal</string>
-    <string name="keyboard_layout_japanese">iRemote shutter用レイアウト</string>
+    <string name="keyboard_layout_name1">標準</string>
+    <string name="keyboard_layout_name2">vol->next/prev, next/prev->fwd/rewind</string>
+    <string name="keyboard_layout_label">iRemote shutter用レイアウト</string>
 
 </resources>

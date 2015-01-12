@@ -1,27 +1,13 @@
 type OVERLAY
 
-# volumeup
-map key 115 MEDIA_NEXT
-# volumedown
-map key 114 MEDIA_PREVIOUS
-# nextsong
-map key 163 MEDIA_FAST_FORWARD
-# previoussong
-map key 165 MEDIA_REWIND
-
-#key MEDIA_NEXT {
-#	base:	fallback MEDIA_FAST_FORWARD
-#}
-
-
 key 0 {
     label:                              '0'
     base:                               '0'
 }
 
 key 1 {
-    label:                              '2'
-    base:                               '2'
+    label:                              '1'
+    base:                               '1'
 }
 
 key 2 {

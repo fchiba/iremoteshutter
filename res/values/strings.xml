@@ -1,7 +1,8 @@
 <resources>
 
     <string name="app_name">Keyboard Layout for iRemote shutter</string>
-    <string name="keyboard_layout_label">normal</string>
-    <string name="keyboard_layout_japanese">Layout for iRemote shutter</string>
+    <string name="keyboard_layout_name1">normal</string>
+    <string name="keyboard_layout_name2">vol->next/prev, next/prev->fwd/rewind</string>
+    <string name="keyboard_layout_label">Layout for iRemote shutter</string>
 
 </resources>

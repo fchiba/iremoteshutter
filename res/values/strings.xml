@@ -1,5 +1,7 @@
 <resources>
 
-    <string name="app_name">iremoteshutter</string>
+    <string name="app_name">Keyboard Layout for iRemote shutter</string>
+    <string name="keyboard_layout_label">normal</string>
+    <string name="keyboard_layout_japanese">Layout for iRemote shutter</string>
 
 </resources>
